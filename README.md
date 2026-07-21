@@ -2,5 +2,6 @@
 
 Manage Security Risks - Google
 
-[Controls and compliance checklist.pdf](https://github.com/user-attachments/files/30198577/Controls.and.compliance.checklist.pdf)
+[Uploading Controls and compliance checklist (1).pdf…]()
+
 
